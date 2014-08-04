@@ -2,7 +2,7 @@ CSC207-Mock-File-System
 =======================
 WHAT IS THIS??
 
-My first repo on GitHub
+My first repository on GitHub
 
 This is a program that basically mocks the OS File System.
 
