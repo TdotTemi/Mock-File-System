@@ -1,0 +1,11 @@
+cat FILE
+Display the contents of FILE in the shell. FILE is the name of
+the file in the current working directory.
+
+cat FILE [> OUTFILE]
+Get the content of FILE and put content into file OUTFILE. This creates a new 
+file if OUTFILE does not exists and erase the old contents if OUTFILE already 
+exists.
+
+cat FILE [>> OUTFILE]
+Like the previous command, but appends instead of overwrites.
