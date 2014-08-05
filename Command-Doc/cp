@@ -1,0 +1,3 @@
+cp OLDPATH NEWPATH
+Copy item OLDPATH to NEWPATH. Both OLDPATH and NEWPATH may be 
+relative to the current directory or may be full paths.
