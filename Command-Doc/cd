@@ -1,0 +1,5 @@
+cd DIR
+Change directory to DIR, which may be relative to the current directory
+or may be a full path. In this system .. means a parent directory and
+a . means the current directory. The directory separator must be /,
+the forward slash. The root of the file system is a single slash: / .
