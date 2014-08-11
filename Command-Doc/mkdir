@@ -1,0 +1,3 @@
+mkdir DIR...
+
+Create directories, each of which may be relative to the current directory or may be a full path.
