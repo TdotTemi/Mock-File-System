@@ -1,0 +1,5 @@
+ls [-r] [PATH...]
+
+If no paths (absolute or relative) are given,
+print the contents (file or directory) of the current directory,
+with a new line following each of the content (file or directory).
